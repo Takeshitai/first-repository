@@ -1,4 +1,4 @@
 # README #
 
-Practice repositry for learning Git workflow
+Practice repository for learning Git workflow
 
